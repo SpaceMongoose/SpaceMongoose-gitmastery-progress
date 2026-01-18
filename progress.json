@@ -293,5 +293,14 @@
       "Missing question Which numbers are present in stream-1 but not in stream-2? in answers file."
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "branch-compare",
+    "started_at": 1768718063.031014,
+    "completed_at": 1768718065.48839,
+    "comments": [
+      "Great work comparing the branches successfully!"
+    ],
+    "status": "Completed"
   }
 ]
