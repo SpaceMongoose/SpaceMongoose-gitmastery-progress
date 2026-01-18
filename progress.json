@@ -239,5 +239,14 @@
       "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-previous",
+    "started_at": 1768710172.733495,
+    "completed_at": 1768710176.386627,
+    "comments": [
+      "The 'visitor-line' branch should have the line 'I heard someone knocking at the door.' added to story.txt."
+    ],
+    "status": "Incomplete"
   }
 ]
